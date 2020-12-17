@@ -14,5 +14,5 @@ Some non-standard libraries that may be required is:
 
 To run the test script, the saved networks should be in the same directory as the test.ipynb file. Otherwise the paths to the saved networks in test.ipynb must be changed.
 
-Due to GitHub's upload size limit of 100MB, and the fact that each of our networks are 102MB, the networks may be downloaded from my UF Drobox with the following link:
+Due to GitHub's upload size limit of 100MB, and the fact that each of network are 102MB, the networks may be downloaded from my UF Drobox with the following link:
 https://www.dropbox.com/sh/rtji07rgm96wzco/AADhrItP-B5V29jpOcpvC2JHa?dl=0
