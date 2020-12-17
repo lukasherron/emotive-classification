@@ -5,7 +5,7 @@ This repository contains:
 * Testing function located in test.ipynb
 * Training script located in train.ipynb
 * Preprocessing script in preprocessing.ipynb (Note: for test.ipynb the preprocessing steps are already included)
-* Report as manuscript.pdf
+* Report as report.pdf
 
 Some non-standard libraries that may be required is:
 * torch
